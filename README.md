@@ -1,19 +1,19 @@
 ## Introduction
 
-This is the Map-Reduce homework for PingCAP Talent Plan Online of week 2.
+This is the Map-Reduce homework for VLDB Summer School 2021. By completing this task, you will learn some basic skill on Golang language and have some knowledge about distributed systems. This task is similar to the [lab1](https://pdos.csail.mit.edu/6.824/labs/lab-mr.html) of MIT 6.824, a small startup for your study on distributed systems.
 
 There is a uncompleted Map-Reduce framework, you should complete it and use it to extract the 10 most frequent URLs from data files.
 
 ## Course
 
-We recommand the introduction chapter of MIT 6.824's course for this lab. This video provides an overview of distributed systems and dive into the Map-Reduce framework.
+We recommend the introduction chapter of MIT 6.824's course for this lab. This video provides an overview of distributed systems and dive into the Map-Reduce framework.
 
-- https://www.youtube.com/watch?v=cQP8WApzIQQ
-- https://www.bilibili.com/video/BV1R7411t71W?p=1
+- [Official] https://www.youtube.com/watch?v=cQP8WApzIQQ
+- [Mirror] https://www.bilibili.com/video/BV1R7411t71W?p=1
 
 Map-Reduce is a well-known distributed computation framework, you may find other videos and blogs online.
 
-For Golang learning, we recommand [Online Go tutorial](https://tour.golang.org/). If you are new to this language, it would be a good idea to finish the tutorial course before starting this lab.
+For Golang learning, we recommend [Online Go tutorial](https://tour.golang.org/). If you are new to this language, it would be a good idea to finish the tutorial course before starting this lab.
 
 In MIT 6.824's guidance, there are some further advices like debugging in such complex systems. Check it out as your interest.
 
@@ -27,7 +27,9 @@ This lab aims to acquire the skill of Golang development with distributed system
 - Complete the lab on your repo
 - Send a pull request to this repo
 
-If you have any questions, feel free to discuss it in ASKTUG forum.
+Ask any questions in AskTUG forum.
+
+- https://asktug.com/tags/vldbss
 
 ## Getting familiar with the source
 
